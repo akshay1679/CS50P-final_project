@@ -22,7 +22,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/hangman.git
+git clone https://github.com/akshay1697/hangman.git
 cd hangman
 Ensure you have Python 3 installed. You can download it from python.org.
 
